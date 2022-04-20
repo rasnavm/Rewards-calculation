@@ -1,7 +1,7 @@
-#Reward calculation
-clone the repository to your local machine.
-Navigate into the project folder 
-run npm install to install the dependencies
+#Reward calculation <br>
+clone the repository to your local machine.<br>
+Navigate into the project folder <br>
+run **npm install** to install the dependencies<br>
 
 ## Available Scripts
 
